@@ -1,0 +1,130 @@
+h1,h2,h3,h4,h5{
+	font-family: 'Noto Sans TC', sans-serif; font-weight: 800;
+}
+p,a,input,label,textarea,span,ul,li{
+	font-family: 'Open Sans', sans-serif;
+}
+
+img{
+	max-width: 100%;
+}
+
+#intro .jumbotron{
+	height: 70vh;
+	margin-bottom: 0;
+}
+#intro h2{
+	font-size: 35px;
+	    font-weight: 800;
+}
+#intro .container{
+	 position: relative;
+	  top: 50%;
+	  -webkit-transform: translateY(-50%);
+	  -ms-transform: translateY(-50%);
+	  transform: translateY(-50%);
+}
+header nav img{
+	width: 175px;
+}
+
+header li{
+	margin: 0px 21px;
+}
+
+.btn{
+    color: white;
+    background: #608f93;
+    border-radius: 22px;
+    padding: 5px 14px;
+}
+
+#second{
+	margin: 81px 0px;
+}
+
+#second h3{
+	font-size: 30px;
+	margin-bottom: 80px;
+	font-weight: 600;
+}
+
+#second img{
+	    width: 207px;
+	    border-radius: 103px;
+	    margin: 28px;
+}
+
+p{
+	color: #608F93;
+}
+
+p.lead{
+	color: black;
+}
+#latest h3{
+	font-weight: 800;
+	margin-bottom: 10px;
+}
+
+#latest{
+	padding: 80px;
+	background-color: #f4f4f4;
+}
+#latest h4{
+	font-weight: 800;
+	margin-bottom: 80px;
+}
+
+#latest .upper{
+	position: relative;
+}
+
+#latest .innertext{
+	    position: absolute;
+	    bottom: -53px;
+	    padding: 9px;
+}
+
+#latest .innertext span{
+	background: #ffffff;
+	padding: 5px 10px;
+	border-radius: 10px;
+}
+
+#latest h4{
+	    margin-top: 12px;
+	    font-size: 21px; 
+}
+
+#latest .lower i{
+	margin-right: 7px;
+}
+
+#latest .outer{
+	    background: white;
+	    padding: 13px;
+	    box-shadow: 0 0 10px #cecece;
+}
+
+#latest a{
+	color: black;
+}
+
+#latest a:hover{
+	text-decoration: none;
+}
+
+#email{
+	padding: 80px 0px;
+}
+
+footer{
+	border-top: 2px solid #dee2e6;
+	    padding: 70px 0px;
+}
+
+footer img{
+	    width: 173px;
+	    margin-bottom: 21px;
+}
